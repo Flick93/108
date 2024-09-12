@@ -1,0 +1,9 @@
+.catalog{
+    min-height: 600px;
+    background-color: #f5f7f8;
+}
+.catalog h1{
+    color: orangered;
+    font-size: 28px;
+    font-weight: 300;
+}
