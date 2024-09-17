@@ -1,0 +1,13 @@
+.home {
+    min-height: 600px;
+    padding: 20px;
+}
+
+.home h2{
+    color: orangered;
+    text-align: center;
+}
+
+img{
+    width: 1250px;
+}
